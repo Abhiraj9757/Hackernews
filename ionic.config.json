@@ -1,0 +1,7 @@
+{
+  "name": "newly",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

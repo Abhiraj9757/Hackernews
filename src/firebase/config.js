@@ -8,3 +8,4 @@ const firebaseConfig = {
   appId: "1:715780438343:web:193bcda031faee2c2a3462",
   measurementId: "G-RERPM63G24"
 };
+export default firebaseConfig
